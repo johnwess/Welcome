@@ -1,27 +1,26 @@
 
-# John Wess
+# John Wess #
 ----------------------------------------
-## Contact
+## Contact ##
 ----------------------------------------
 131 Murphy Hill Dr. Weaverville NC 28787
 407-810-5211
 john@hoodlumsound.com
 ----------------------------------------
 
-## Skills
+## Skills ##
 * HTML5
 * CSS3
 * Linux
 * Windows
 * PowerShell
 * Javascript
-* Cloud
 * Networking
 * TCP/IP
 * Static Website design
 * Cloud Infrastructure (AWS)
 
-## Work Experience
+## Work Experience ##
 ------------------
 
 **Unique Logic & Technology**
