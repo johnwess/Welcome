@@ -8,7 +8,7 @@ johndwess@gmail.com
 
 ## Background Summary
 
-I am a passionate technologist, a determined customer advocate, experienced in consultative sales and deployment of diverse technologies, with the practical knowledge of effective analytical trouble resolution, and the ability to learn, master and effectively communicate technology.
+I am a passionate technologist, and a determined customer advocate, experienced in consultative sales and deployment of diverse technologies, with the practical knowledge of effective analytical trouble resolution, and the ability to learn, master and effectively communicate technology.
 
 I am also a capable chef, knowledgeable in all stages of kitchen management and food preparation. When I’m not working, I enjoy photography focusing on abstract, long-exposure, monochromatic photographs.
 
