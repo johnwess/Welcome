@@ -2,7 +2,7 @@
 131 Murphy Hill Rd.
 Weaverville, NC. 28787
 johndwess@gmail.com
-828-552-4911
+828-708-3333
 
 ---
 
@@ -13,6 +13,11 @@ I am a passionate technologist, and a determined customer advocate, experienced 
 I am also a capable chef, knowledgeable in all stages of kitchen management and food preparation. When I’m not working, I enjoy photography focusing on abstract, long-exposure, monochromatic photographs.
 
 ## Experience
+
+### General Equipment Rental
+#### Technology and Personnel Manager
++ Technology and IT specialist
++ Support retail and rental processes
 
 ### Unique Logic & Technology 2014-Current
 #### IT Support Manager
