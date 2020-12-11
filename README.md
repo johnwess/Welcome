@@ -1,7 +1,7 @@
 # John D. Wess
 131 Murphy Hill Rd.
 Weaverville, NC. 28787
-johndwess@gmail.com
+john@johnwess.com
 828-708-3333
 
 ---
