@@ -14,12 +14,13 @@ I am also a capable chef, knowledgeable in all stages of kitchen management and 
 
 ## Experience
 
-### General Equipment Rental
+### General Equipment Rental 2019-Current
 #### Technology and Personnel Manager
 + Technology and IT specialist
 + Support retail and rental processes
++ Serve as Human Resources support
 
-### Unique Logic & Technology 2014-Current
+### Unique Logic & Technology 2014-2019
 #### IT Support Manager
 + Manage Web Properties, Social Media, and Blogging platforms
 + Design, implement and maintain Online Help Desk ticketing platform
